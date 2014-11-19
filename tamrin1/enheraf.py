@@ -6,7 +6,9 @@ def enheraf(f):
         n+=f[i]
 
 
-
+    y= n/len(f)
+    e=(n-y)/len(f)
+    if len(f)%2!=0:
        m=len(f)/2
        a=f[m]
     else:
