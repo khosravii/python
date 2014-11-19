@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e37c09bb-e8ea-44a5-bf70-786cc4256555" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tamrin1/enheraf.py" afterPath="$PROJECT_DIR$/tamrin1/enheraf.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python.iws" />
@@ -292,7 +291,11 @@
       <created>1416384750343</created>
       <updated>1416384750343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3">
+      <created>1416384825229</created>
+      <updated>1416384825229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -336,7 +339,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
